@@ -1,0 +1,20 @@
+/* .App{
+  margin-left: 50px;
+} */
+
+.name{
+  margin-top: 30px;
+  margin-left: -300px;
+}
+
+.text{
+  margin-left: 50px;
+  margin-top: -50px;
+}
+.login{
+  margin-top: 50px;
+}
+.signup{
+  margin-left: 250px;
+  margin-top: -50px;
+}
